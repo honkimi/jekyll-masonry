@@ -14,4 +14,4 @@ github: ""
 facebook: ""
 linkined_url: ""
 
-BASE_PATH : "//honkimi.github.io/jekyll-masonry/"
+baseurl: "/jekyll-masonry"
