@@ -1,5 +1,5 @@
 permalink: /:categories/:title.html
-url: "http://honkimi.github.io/jekyll-masonry/"
+url: "//honkimi.github.io/jekyll-masonry/"
 full_name: "Rideshare News"
 first_name: "Rideshare"
 last_name: "News"
