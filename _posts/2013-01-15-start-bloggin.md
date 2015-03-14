@@ -1,16 +1,10 @@
 ---
 layout: blog
-title: Here is the title of the post
-category: blog
-tags: [tags for the post, is here]  
-summary: Here is a summary of the post
-image: /images/blog/blogging-again.png
+title: ライドシェアブログ始めました。
+category: News
+tags: [news]  
+summary: メディア開設のお知らせ
+image: http://selfree.co.jp/images/img_index_top3.jpg
 ---
 
-This is a template with masonry to get the theme
-
-```
-git clone https://github.com/pasindud/jekyll-masonry-theme
-```
-
-Edit the _config.yml to change your settings
+メディア開設しました。このページは最初の１記事目です。
